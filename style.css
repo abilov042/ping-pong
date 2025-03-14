@@ -1,0 +1,36 @@
+.container{
+    min-width: 1024px;
+    height: 98vh;
+    background-color: #000;
+}
+
+.player{
+    width: 30px;
+    height: 100px;
+    background-color: white;
+}
+
+.player1{
+    margin-top: 400px;
+    margin-left: 50px;
+}
+
+.player2{
+    margin-top: 400px;
+    margin-right: 50px;
+}
+
+.ball{
+    background-color: white;
+    width: 20px;
+    height: 20px;
+    margin-top: 400px;
+}
+
+
+.player-area{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height: 100%;
+}
